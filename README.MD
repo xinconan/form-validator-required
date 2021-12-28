@@ -4,7 +4,7 @@
 未来会计划支持 `Element-UI` 。
 
 ## 支持的校验方法
-**requiredStrict**
+**requiredStrict**  
 必填校验，除了校验空字符串外，还会将校验空格（半角和全角），适用于在判空时要将空格算做空字符串的场景中。
 
 ## Usage
